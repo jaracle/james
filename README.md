@@ -3,7 +3,7 @@ Usage:
   ./setup.sh [options]  
 Options:  
 --host Specify host of your email server.  
---account Initialize a email account.  
+--account Initialize a email account(Note:DO NOT INCLUDE HOST NAME).  
 --password Password of your account.  
 --pop3 POP3 protocol port.  
 --smtp SMTP protocol port.  
